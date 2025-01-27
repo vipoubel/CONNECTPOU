@@ -5,6 +5,10 @@ Link Page  personalizada, desenvolvida especialmente para empresas que desejam r
 <a href="https://wa.me/5527992341557">Entre em contato com o desenvolvedor clicando aqui.</a>
 </p>
 
+## Layout
+
+<img src="./assets/layout.png" alt="Perfil" />
+
 ## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
